@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Samira Web Page</title>
+</head>
+<body>
+
+<h1 style="background-color:DodgerBlue;">I welcome you to My Website</h1>
+<p>Files that i will create in this assignment
+</p>
+<p> 
+•	index.html
+</p>
+<p>
+•	boards.html
+</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Images</h2>
+<p>This Image was download from UTA website</p>
+
+<img src="strategic-plan-2023-group.jpg" alt="www.uta.edu/" width="500" height="300">
+
+<video src="6706d028-0bca2d57.mp4" alt="www.uta.edu/" width="500" height="300">
+
+</body>
+</html>
